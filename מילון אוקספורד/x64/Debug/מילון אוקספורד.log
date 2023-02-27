@@ -1,0 +1,36 @@
+﻿  Header.c
+C:\Users\ido72\OneDrive\Desktop\M\C - יונה ודוק\בסמח\מילון אוקספורד\מילון אוקספורד\Header.c(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\ido72\OneDrive\Desktop\M\C - יונה ודוק\בסמח\מילון אוקספורד\מילון אוקספורד\Header.c(31,8): warning C4477: 'scanf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'char *(*)[20]'
+C:\Users\ido72\OneDrive\Desktop\M\C - יונה ודוק\בסמח\מילון אוקספורד\מילון אוקספורד\Header.c(34,8): warning C4477: 'scanf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'char *(*)[200]'
+C:\Users\ido72\OneDrive\Desktop\M\C - יונה ודוק\בסמח\מילון אוקספורד\מילון אוקספורד\Header.c(36,23): warning C4047: 'function': 'char *' differs in levels of indirection from 'char *[20]'
+C:\Users\ido72\OneDrive\Desktop\M\C - יונה ודוק\בסמח\מילון אוקספורד\מילון אוקספורד\Header.c(36,13): warning C4024: 'AddNewWord': different types for formal and actual parameter 1
+C:\Users\ido72\OneDrive\Desktop\M\C - יונה ודוק\בסמח\מילון אוקספורד\מילון אוקספורד\Header.c(36,35): warning C4047: 'function': 'char *' differs in levels of indirection from 'char *[200]'
+C:\Users\ido72\OneDrive\Desktop\M\C - יונה ודוק\בסמח\מילון אוקספורד\מילון אוקספורד\Header.c(36,25): warning C4024: 'AddNewWord': different types for formal and actual parameter 2
+C:\Users\ido72\OneDrive\Desktop\M\C - יונה ודוק\בסמח\מילון אוקספורד\מילון אוקספורד\Header.c(60,8): warning C4477: 'scanf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'char *(*)[20]'
+C:\Users\ido72\OneDrive\Desktop\M\C - יונה ודוק\בסמח\מילון אוקספורד\מילון אוקספורד\Header.c(62,36): warning C4047: 'function': 'char *' differs in levels of indirection from 'char *[20]'
+C:\Users\ido72\OneDrive\Desktop\M\C - יונה ודוק\בסמח\מילון אוקספורד\מילון אוקספורד\Header.c(62,26): warning C4024: 'GetWordDefenition': different types for formal and actual parameter 1
+C:\Users\ido72\OneDrive\Desktop\M\C - יונה ודוק\בסמח\מילון אוקספורד\מילון אוקספורד\Header.c(94,8): warning C4477: 'scanf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'char **'
+C:\Users\ido72\OneDrive\Desktop\M\C - יונה ודוק\בסמח\מילון אוקספורד\מילון אוקספורד\Header.c(96,27): warning C4047: 'function': 'char' differs in levels of indirection from 'char *'
+C:\Users\ido72\OneDrive\Desktop\M\C - יונה ודוק\בסמח\מילון אוקספורד\מילון אוקספורד\Header.c(96,24): warning C4024: 'PrintWordsOf': different types for formal and actual parameter 1
+C:\Users\ido72\OneDrive\Desktop\M\C - יונה ודוק\בסמח\מילון אוקספורד\מילון אוקספורד\Header.c(167,16): warning C4477: 'fscanf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'char *(*)[20]'
+C:\Users\ido72\OneDrive\Desktop\M\C - יונה ודוק\בסמח\מילון אוקספורד\מילון אוקספורד\Header.c(167,16): warning C4477: 'fscanf' : format string '%s' requires an argument of type 'char *', but variadic argument 2 has type 'char *(*)[200]'
+C:\Users\ido72\OneDrive\Desktop\M\C - יונה ודוק\בסמח\מילון אוקספורד\מילון אוקספורד\Header.c(169,37): warning C4047: 'function': 'const char *' differs in levels of indirection from 'char *[20]'
+C:\Users\ido72\OneDrive\Desktop\M\C - יונה ודוק\בסמח\מילון אוקספורד\מילון אוקספורד\Header.c(169,24): warning C4024: 'strcmp': different types for formal and actual parameter 2
+C:\Users\ido72\OneDrive\Desktop\M\C - יונה ודוק\בסמח\מילון אוקספורד\מילון אוקספורד\Header.c(173,45): warning C4047: 'function': 'const char *' differs in levels of indirection from 'char *[20]'
+C:\Users\ido72\OneDrive\Desktop\M\C - יונה ודוק\בסמח\מילון אוקספורד\מילון אוקספורד\Header.c(173,32): warning C4024: 'strcpy': different types for formal and actual parameter 2
+C:\Users\ido72\OneDrive\Desktop\M\C - יונה ודוק\בסמח\מילון אוקספורד\מילון אוקספורד\Header.c(174,35): warning C4047: 'function': 'char **' differs in levels of indirection from 'char *'
+C:\Users\ido72\OneDrive\Desktop\M\C - יונה ודוק\בסמח\מילון אוקספורד\מילון אוקספורד\Header.c(174,16): warning C4024: 'JoinStrings': different types for formal and actual parameter 1
+C:\Users\ido72\OneDrive\Desktop\M\C - יונה ודוק\בסמח\מילון אוקספורד\מילון אוקספורד\Header.c(174,43): warning C4047: 'function': 'char *' differs in levels of indirection from 'char *[200]'
+C:\Users\ido72\OneDrive\Desktop\M\C - יונה ודוק\בסמח\מילון אוקספורד\מילון אוקספורד\Header.c(174,37): warning C4024: 'JoinStrings': different types for formal and actual parameter 2
+C:\Users\ido72\OneDrive\Desktop\M\C - יונה ודוק\בסמח\מילון אוקספורד\מילון אוקספורד\Header.c(201,25): warning C4047: 'function': 'char *' differs in levels of indirection from 'char **'
+C:\Users\ido72\OneDrive\Desktop\M\C - יונה ודוק\בסמח\מילון אוקספורד\מילון אוקספורד\Header.c(201,9): warning C4024: 'strcat': different types for formal and actual parameter 1
+C:\Users\ido72\OneDrive\Desktop\M\C - יונה ודוק\בסמח\מילון אוקספורד\מילון אוקספורד\Header.c(202,25): warning C4047: 'function': 'char *' differs in levels of indirection from 'char **'
+C:\Users\ido72\OneDrive\Desktop\M\C - יונה ודוק\בסמח\מילון אוקספורד\מילון אוקספורד\Header.c(202,9): warning C4024: 'strcat': different types for formal and actual parameter 1
+C:\Users\ido72\OneDrive\Desktop\M\C - יונה ודוק\בסמח\מילון אוקספורד\מילון אוקספורד\Header.c(282,16): warning C4477: 'fscanf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'char *(*)[20]'
+C:\Users\ido72\OneDrive\Desktop\M\C - יונה ודוק\בסמח\מילון אוקספורד\מילון אוקספורד\Header.c(282,16): warning C4477: 'fscanf' : format string '%s' requires an argument of type 'char *', but variadic argument 2 has type 'char *(*)[200]'
+C:\Users\ido72\OneDrive\Desktop\M\C - יונה ודוק\בסמח\מילון אוקספורד\מילון אוקספורד\Header.c(283,36): warning C4047: 'function': 'char *' differs in levels of indirection from 'char *[200]'
+C:\Users\ido72\OneDrive\Desktop\M\C - יונה ודוק\בסמח\מילון אוקספורד\מילון אוקספורד\Header.c(283,30): warning C4024: 'JoinStrings': different types for formal and actual parameter 2
+C:\Users\ido72\OneDrive\Desktop\M\C - יונה ודוק\בסמח\מילון אוקספורד\מילון אוקספורד\Header.c(284,10): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'char **'
+  main.c
+  Generating Code...
+  מילון אוקספורד.vcxproj -> C:\Users\ido72\OneDrive\Desktop\M\C - יונה ודוק\בסמח\מילון אוקספורד\x64\Debug\מילון אוקספורד.exe
